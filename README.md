@@ -22,3 +22,5 @@
 8) Double click the long string under "plot_public_key:", copy the key (or CTRL-C) without double quote
 
 GOOD LUCK ALL !!!
+
+Thanks to https://gist.github.com/sharjeelaziz/1beb83f571f621e4f2d9b36a404b8713 for the commands.
