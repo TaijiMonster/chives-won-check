@@ -2,6 +2,8 @@
 
 ## How to check which plot won the block
 
+Prerequisite: You need to have curl installed.
+
 ### How to install
 1) Type in `git clone https://github.com/TaijiMonster/chives-won-check`
 2) `cd chives-won-check`
