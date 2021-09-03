@@ -1,6 +1,6 @@
 # chives-won-check - LINUX ONLY
 
-## How to check block won plot's filename
+## How to check which plot won the block
 
 ### How to install
 1) Type in `git clone https://github.com/TaijiMonster/chives-won-check`
